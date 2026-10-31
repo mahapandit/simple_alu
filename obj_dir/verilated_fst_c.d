@@ -1,0 +1,20 @@
+verilated_fst_c.o: \
+ /opt/oss-cad-suite/share/verilator/include/verilated_fst_c.cpp \
+ /opt/oss-cad-suite/share/verilator/include/verilated.h \
+ /opt/oss-cad-suite/share/verilator/include/verilated_config.h \
+ /opt/oss-cad-suite/share/verilator/include/verilatedos.h \
+ /opt/oss-cad-suite/share/verilator/include/verilated_types.h \
+ /opt/oss-cad-suite/share/verilator/include/verilated_funcs.h \
+ /opt/oss-cad-suite/share/verilator/include/verilated_fst_c.h \
+ /opt/oss-cad-suite/share/verilator/include/verilated_trace.h \
+ /opt/oss-cad-suite/share/verilator/include/fstcpp/fstcpp_variable_info.cpp \
+ /opt/oss-cad-suite/share/verilator/include/fstcpp/fstcpp_variable_info.h \
+ /opt/oss-cad-suite/share/verilator/include/fstcpp/fstcpp.h \
+ /opt/oss-cad-suite/share/verilator/include/fstcpp/fstcpp_assertion.h \
+ /opt/oss-cad-suite/share/verilator/include/fstcpp/fstcpp_stream_write_helper.h \
+ /opt/oss-cad-suite/share/verilator/include/fstcpp/fstcpp_file.h \
+ /opt/oss-cad-suite/share/verilator/include/fstcpp/fstcpp_writer.cpp \
+ /opt/oss-cad-suite/share/verilator/include/fstcpp/fstcpp_writer.h \
+ /opt/oss-cad-suite/share/verilator/include/verilated_trace_imp.h \
+ /opt/oss-cad-suite/share/verilator/include/verilated_intrinsics.h \
+ /opt/oss-cad-suite/share/verilator/include/verilated_threads.h
